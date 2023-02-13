@@ -1,6 +1,6 @@
 # Batch
 
-Practicing batch.
+Practicing batch scripting.
 
 ## Run
 
