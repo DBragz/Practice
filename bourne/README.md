@@ -1,11 +1,11 @@
-# Batch
+# Bourne shell
 
-Practicing batch scripting.
+Practicing bourne shell scripting.
 
 ## Run
 
 ```shell
-practice.bat
+dir_check.sh
 ```
 
 ## Authors
