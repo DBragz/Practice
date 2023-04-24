@@ -5,7 +5,7 @@ Practicing PowerShell.
 ## Run
 
 ```shell
-practice.ps1
+gui.ps1
 ```
 
 ## Authors
