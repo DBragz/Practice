@@ -1,6 +1,6 @@
 # Java
 
-Practicing Java programming.
+Practicing Java programming. Commands below are run from the root directory of this repository.
 
 ## Compilation
 
