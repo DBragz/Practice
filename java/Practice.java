@@ -1,21 +1,29 @@
+import java.util.List;
+import java.util.Arrays;
+
 /**
  *
  * Simple Java practice program.
  *
  * @author  Daniel Ribeirinha-Braga
- * @version 1.0
- * @since   2023-02-13
+ * @version %I%, $G%
+ * @since   1.8
  *
  */
 
 public class Practice {
   public static void main(String args[]) {
     
+    System.out.println();
     System.out.println("Hacking one program at a time!");
 
-    Object obj = null;
-    String text = obj.toString();
-    System.out.println(text);
+    String[] stringArray = {"foo", "bar", "baz"};
+    List<String> stringList = Arrays.asList(stringArray);
+
+    System.out.println();
+    System.out.println(Arrays.toString(stringArray));
+    System.out.println(stringList);
+    System.out.println();
 
   }
 }
