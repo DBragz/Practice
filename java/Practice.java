@@ -20,6 +20,7 @@ public class Practice {
     String[] stringArray = {"foo", "bar", "baz"};
     List<String> stringList = Arrays.asList(stringArray);
 
+    stringArray[1] = "update";
     System.out.println();
     System.out.println(Arrays.toString(stringArray));
     System.out.println(stringList);
