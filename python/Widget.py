@@ -1,3 +1,11 @@
+#!/usr/bin/python
+
+"""
+   Simple widget class
+   
+   Author: Daniel Ribeirinha-Braga
+"""
+
 class Widget:
 
   thing = None
@@ -6,7 +14,7 @@ class Widget:
     self.name = name
 
   def say_name(self):
-      print('widget is ' + self.name)
+      print('Widget is ' + self.name)
 
 
 def main():
