@@ -1,3 +1,11 @@
+<# .SYNOPSIS
+	Stack Example
+.DESCRIPTION
+  An example for Stack data structure in PowerShell.
+.NOTES
+	Author: Daniel Ribeirinha-Braga
+#>
+
 class Stack
 {
   [string[]] $items
