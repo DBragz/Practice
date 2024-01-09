@@ -11,3 +11,4 @@ dir_check.sh
 ## Authors
 
 - [Daniel Ribeirinha-Braga](https://github.com/DBragz)
+

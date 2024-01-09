@@ -1,12 +1,11 @@
-# PowerShell
+# Python
 
-Practicing PowerShell.
+Practicing Python.
 
 ## Run
 
 ```shell
-GUI.ps1
-Stack.ps1
+python widget.py
 ```
 
 ## Authors
