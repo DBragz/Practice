@@ -39,3 +39,4 @@ class Stack
   }
   [bool] peek([ref] [string] $item)
 }
+

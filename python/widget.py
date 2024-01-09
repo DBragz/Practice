@@ -14,7 +14,7 @@ class Widget:
     self.name = name
 
   def say_name(self):
-      print('Widget is ' + self.name)
+    print('Widget is ' + self.name)
 
 
 def main():
@@ -24,3 +24,4 @@ def main():
 
 if __name__ == "__main__": 
   main()
+

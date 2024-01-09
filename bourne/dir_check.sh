@@ -15,3 +15,4 @@ fi
 if [ -d $1 ]; then
   echo "Directory exists"
 fi
+
