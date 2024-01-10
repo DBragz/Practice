@@ -1,8 +1,8 @@
 #!/usr/bin/python
 
 """
-   Simple widget class
-   Author: Daniel Ribeirinha-Braga
+    Simple widget class
+    Author: Daniel Ribeirinha-Braga
 """
 
 
