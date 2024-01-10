@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 """
-    Simple widget class
+    A widget class.
     Author: Daniel Ribeirinha-Braga
 """
 

@@ -1,5 +1,15 @@
 import java.util.ArrayList;
 
+/**
+ *
+ * A stack class.
+ *
+ * @author  Daniel Ribeirinha-Braga
+ * @version %I%, $G%
+ * @since   1.8
+ *
+ */
+
 public class Stack<T> {
   private ArrayList<T> stack;
 

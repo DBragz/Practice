@@ -1,4 +1,11 @@
-# Create a stack data structure with appropriate methods
+#!/usr/bin/python
+
+"""
+    A stack class.
+    Author: Daniel Ribeirinha-Braga
+"""
+
+
 class Stack:
     def __init__(self):
         self.stack = []

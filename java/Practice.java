@@ -3,7 +3,7 @@ import java.util.Arrays;
 
 /**
  *
- * Simple Java practice program.
+ * A practice program.
  *
  * @author  Daniel Ribeirinha-Braga
  * @version %I%, $G%

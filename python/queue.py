@@ -1,3 +1,11 @@
+#!/usr/bin/python
+
+"""
+    A queue class.
+    Author: Daniel Ribeirinha-Braga
+"""
+
+
 class Queue:
     def __init__(self):
         self.queue = []

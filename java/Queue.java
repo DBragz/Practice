@@ -1,5 +1,15 @@
 import java.util.LinkedList;
 
+/**
+ *
+ * A queue class.
+ *
+ * @author  Daniel Ribeirinha-Braga
+ * @version %I%, $G%
+ * @since   1.8
+ *
+ */
+
 public class Queue<T> {
   private LinkedList<T> queue;
 
